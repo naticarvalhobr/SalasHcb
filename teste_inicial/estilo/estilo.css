@@ -1,0 +1,50 @@
+*{
+   margin: 0; 
+}
+
+nav{
+    height: 125px; 
+    display:flex;
+    justify-content:center;
+    padding: 100px;
+}
+li{
+    font-size: 30px;
+    color: blanchedalmond;
+    list-style: none;
+   /* background-color: chartreuse;*/
+    padding: 35px;
+
+}
+a{
+    text-decoration: none;
+}
+.pai{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.filha1_img{
+    height: 300px;
+    width: 640px;
+    height: 426px;
+}
+.filha2_txt{
+    height: 300px;
+    width: 640px;
+    height: 426px;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+p{
+    padding: 100px;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(140, 158, 158);
+}
+
+
